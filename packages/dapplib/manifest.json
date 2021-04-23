@@ -1,0 +1,18 @@
+{
+    "name": "BlockBandidos",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/file_storage/sia": true,
+        "/category/file_storage/sia/mode": "single",
+        "/category/collection/entity": true,
+        "/category/asset_value_tracking/token/name": "BlockBandidos",
+        "/category/asset_value_tracking/token/symbol": "BANDIT",
+        "/category/asset_value_tracking/token/decimals": "8",
+        "/category/asset_value_tracking/token/supply": "21000000"
+    }
+}
